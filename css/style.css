@@ -47,6 +47,9 @@ h1,h2, h3, h4, h5, h6 {
 .row,.row-fluid {
 	margin-bottom:30px;
 }
+.logo {
+	max-height: 15vh;
+}
 
 .row .row,.row-fluid .row-fluid{
 	margin-bottom:30px;
